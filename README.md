@@ -1,4 +1,4 @@
-# Next.js and Django Integration Dashboard
+# Blockhouse Next.js and Django Web Dev Assignment
 
 ## Overview
 
