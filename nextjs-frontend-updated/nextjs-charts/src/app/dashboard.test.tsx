@@ -1,4 +1,4 @@
-import { render, screen, waitFor } from "@testing-library/react";
+import { render, screen } from "@testing-library/react";
 import Dashboard from "./page"; // Adjust the import according to your file structure
 import "@testing-library/jest-dom";
 import { describe, it, afterEach, vi } from "vitest";

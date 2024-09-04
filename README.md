@@ -23,8 +23,11 @@ Follow the instructions below to set up and run the application.
 2. **Create a virtual environment:**
     ```bash
     python -m venv venv
-    source venv/bin/activate  # Linux/Mac 
-    `venv\Scripts\activate` # Windows
+    
+3. **Activate the virtual environment
+    ```bash
+    cd venv/Scripts
+    activate.bat
 
 3. **Install dependencies**
     ```bash
@@ -40,7 +43,7 @@ The API will be accessible at http://localhost:8000.
 
 1. **Navigate to the frontend directory**
    ```bash
-   cd nextjs-frontend/nextjs-charts
+   cd nextjs-frontend-updated/nextjs-charts
    
 2. **Install dependencies:**
     ```bash
