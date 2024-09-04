@@ -38,10 +38,9 @@ The API will be accessible at http://localhost:8000.
 
 ## Frontend Setup
 
-1. **Clone the repository:**
+1. **Navigate to the frontend directory**
    ```bash
-   git clone <repository-url>
-   cd frontend
+   cd nextjs-frontend/nextjs-charts
    
 2. **Install dependencies:**
     ```bash
@@ -73,12 +72,12 @@ The application will be accessible at http://localhost:3000.
 - Recharts
 - Bootstrap
 - Axios
-- Jest with React Testing Library
-- Django's `unittest` framework
+- Vitest
 
 ### Backend
 - Django: High-level Python web framework.
 - Django REST Framework: Toolkit for building Web APIs.
+- Django's `unittest` framework
 
 ## Approach, Thought Process, and notes
 
